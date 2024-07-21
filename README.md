@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mohammad zarei moghadam live & born in iran country in asia & in shiraz city 
 - 👀 I’m interested in business  & got money   &  investor  with learneng new technology like (programming & electronic & megateronic science &  techne)  &  ways for have better life in earth & save nature  ! 
-- 🌱 I’m currently learning in computer science : html css
-- 💞️ I’m looking to collaborate on project with html &css 
+- 🌱 I’m currently learning in computer science : java script react flater api restful in frontend feild & alittle backend
+- 💞️ I’m looking to collaborate on project with html &css js react flatter api & ...
 - 📫 How to reach me : with this platform or my gmail 
 
 <!---
